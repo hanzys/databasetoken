@@ -5,22 +5,5 @@
     "8922910772:AAF0uR6mYIATILmdMLch42Sr1APP0MQVzqw",
     "8971932343:AAG0KmUQVdaUPedfulj3mE482LHQIivu-HY",
     "8888003101:AAHLURix1xDQ20RThxQcHNT0smQF_anAc4k",
-    {
-      "id": "f79a52ac-22fb-40ef-ba7e-d996a90de659",
-      "token": "7884477757:giitt",
-      "addedByAccountId": "uuid-akun-123",
-      "addedByUsername": "kyzoxd",
-      "addedByRole": "reseller",
-      "createdAt": "2026-10-14T23:41:36.201Z"
-    }
-  ],
-  "usage": {
-    "uuid-akun-123": 1
-  },
-  "limits": {
-    "reseller": 3,
-    "ceo": 6,
-    "owner": 14,
-    "developer": -1
-  }
+  ]
 }
